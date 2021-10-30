@@ -59,7 +59,7 @@ while pilihan=="y":
             totalharga= int(harga)
     elif pesan == "4":
         listnama= "Ikan Clarion"
-        harga= (750000*jumlahpesan)
+        harga= (75000*jumlahpesan)
         if jumlahpesan >= 1:
             diskon = int(harga*25/100)
             totalharga=int (harga-diskon)
